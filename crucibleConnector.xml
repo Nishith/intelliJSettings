@@ -1,6 +1,6 @@
 <application>
   <component name="CrucibleSettings">
-    <option name="SERVER_URL" value="https://rbcommons.com/s/pepperdata" />
+    <option name="SERVER_URL" value="https://rbcommons.com/s/pepperdata/dashboard/" />
     <option name="USERNAME" value="nishith@pepperdata.com" />
   </component>
 </application>
