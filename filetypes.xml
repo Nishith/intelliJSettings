@@ -1,0 +1,17 @@
+<application>
+  <component name="CommunityFileTypes" version="11">
+    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;*.orig;" />
+    <extensionMap>
+      <mapping ext="tagx" type="XML" />
+      <mapping ext="jspx" type="XML" />
+      <mapping pattern="pepcollectd" type="Python" />
+    </extensionMap>
+    <setting name="fileTypeChangedCounter" value="2" />
+  </component>
+  <component name="FileTypeManager" version="15">
+    <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping ext="j2" type="XML" />
+    </extensionMap>
+  </component>
+</application>
