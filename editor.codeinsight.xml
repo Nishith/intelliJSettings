@@ -14,8 +14,4 @@
     <option name="collapseAccessors" value="true" />
     <option name="COLLAPSE_ACCESSORS" value="true" />
   </component>
-  <component name="XmlFoldingSettings">
-    <option name="collapseXmlTags" value="true" />
-    <option name="COLLAPSE_XML_TAGS" value="true" />
-  </component>
 </application>
