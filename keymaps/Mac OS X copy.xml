@@ -1,0 +1,5 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="Maven_20094918supervisorf3c8a03ctest">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+</keymap>
