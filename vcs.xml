@@ -21,4 +21,7 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/work/disk" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_WHITESPACES_IN_LST" value="true" />
+  </component>
 </application>
