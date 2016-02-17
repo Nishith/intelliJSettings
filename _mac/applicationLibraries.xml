@@ -28,7 +28,7 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Pepperdata python interpreter library">
+    <library name="Python 2.7.8 (/opt/pepperdata/python-dev/bin/python) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/opt/python-dev/lib/python2.7/site-packages/distribute-0.6.49-py2.7.egg" />
         <root url="file://$USER_HOME$/opt/python-dev/lib/python2.7/site-packages/protobuf-2.6.1-py2.7.egg" />
