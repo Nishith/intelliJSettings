@@ -70,8 +70,8 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="ErrorReportConfigurable">
-    <option name="ITN_LOGIN" value="" />
-    <option name="ITN_PASSWORD_CRYPT" value="" />
+    <option name="ITN_LOGIN" value="Nishith" />
+    <option name="ITN_PASSWORD_CRYPT" value="bjFhMm4zZDQ=" />
     <option name="KEEP_ITN_PASSWORD" value="true" />
     <option name="EMAIL" value="" />
   </component>
