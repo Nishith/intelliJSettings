@@ -8,7 +8,7 @@
     </extensionMap>
     <setting name="fileTypeChangedCounter" value="2" />
   </component>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="16">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="template" type="PLAIN_TEXT" />
