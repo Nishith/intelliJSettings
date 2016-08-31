@@ -1,0 +1,18 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Directory '/Users/Nishith/src/cdap/cdap-security/src/main/java/co/cask/cdap/security/securestore'" />
+    <option name="defaultScopeName" value="Directory '/Users/Nishith/src/cdap/cdap-security/src/main/java/co/cask/cdap/security/securestore'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/Nishith/src/cdap/cdap-security/src/main/java/co/cask/cdap/security/securestore'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
+  </component>
+</application>
