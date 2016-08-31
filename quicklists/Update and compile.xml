@@ -1,4 +1,0 @@
-<list display="Update and compile" description="hg pull -u; mvn clean test">
-  <action id="hg4idea.pull" />
-  <action id="Maven_749ba70supervisor9b722794test" />
-</list>
