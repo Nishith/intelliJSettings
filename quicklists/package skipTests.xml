@@ -1,0 +1,3 @@
+<list display="package skipTests">
+  <action id="Maven.ExecuteGoal" />
+</list>
