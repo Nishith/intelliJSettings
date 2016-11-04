@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Users/Nishith/src/cdap/cdap-security/src/main/java/co/cask/cdap/security/securestore'" />
-    <option name="defaultScopeName" value="Directory '/Users/Nishith/src/cdap/cdap-security/src/main/java/co/cask/cdap/security/securestore'" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/Nishith/src/cdap/cdap-security/src/main/java/co/cask/cdap/security/securestore'" />
+    <option name="customScope" value="File '.../cdap-client/src/main/java/co/cask/cdap/client/config/ClientConfig.java - [cdap-client]'" />
+    <option name="defaultScopeName" value="File '.../cdap-client/src/main/java/co/cask/cdap/client/config/ClientConfig.java - [cdap-client]'" />
+    <option name="SEARCH_SCOPE" value="File '.../cdap-client/src/main/java/co/cask/cdap/client/config/ClientConfig.java - [cdap-client]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
