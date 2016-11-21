@@ -29,6 +29,9 @@
   <action id="Go To Tab #9">
     <keyboard-shortcut first-keystroke="alt 9" />
   </action>
+  <action id="Maven.RunBuild">
+    <keyboard-shortcut first-keystroke="shift alt b" />
+  </action>
   <action id="Maven_f33c8873cdape78436dbpackage">
     <keyboard-shortcut first-keystroke="shift meta b" />
   </action>
@@ -55,4 +58,5 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="meta m" />
   </action>
+  <action id="tasks.open.in.browser" />
 </keymap>
