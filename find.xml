@@ -3,6 +3,7 @@
     <option name="customScope" value="File '.../cdap-client/src/main/java/co/cask/cdap/client/config/ClientConfig.java - [cdap-client]'" />
     <option name="defaultScopeName" value="File '.../cdap-client/src/main/java/co/cask/cdap/client/config/ClientConfig.java - [cdap-client]'" />
     <option name="SEARCH_SCOPE" value="File '.../cdap-client/src/main/java/co/cask/cdap/client/config/ClientConfig.java - [cdap-client]'" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
