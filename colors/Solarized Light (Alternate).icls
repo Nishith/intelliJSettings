@@ -1,6 +1,6 @@
 <scheme name="Solarized Light (Alternate)" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="modified">2016-11-23T13:09:12</property>
+    <property name="modified">2016-11-23T13:30:37</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -16,7 +16,7 @@
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff0900" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="feff14" />
-    <option name="FILESTATUS_MODIFIED" value="3da016" />
+    <option name="FILESTATUS_MODIFIED" value="230a72" />
     <option name="FILESTATUS_UNKNOWN" value="6997d" />
     <option name="FILESTATUS_modifiedOutside" value="11a03e" />
     <option name="GUTTER_BACKGROUND" value="fdf6e3" />
