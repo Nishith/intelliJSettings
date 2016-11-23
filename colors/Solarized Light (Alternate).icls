@@ -1,6 +1,6 @@
 <scheme name="Solarized Light (Alternate)" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="modified">2016-11-22T15:19:36</property>
+    <property name="modified">2016-11-23T13:03:45</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -8,6 +8,7 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
+  <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="mononoki" />
   <colors>
