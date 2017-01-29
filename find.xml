@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../cdap-sentry/cdap-sentry-extension/cdap-sentry-binding/src/main/java/co/cask/cdap/security/authorization/sentry/binding/SentryAuthorizer.java - [cdap-sentry-binding]'" />
-    <option name="defaultScopeName" value="File '.../cdap-sentry/cdap-sentry-extension/cdap-sentry-binding/src/main/java/co/cask/cdap/security/authorization/sentry/binding/SentryAuthorizer.java - [cdap-sentry-binding]'" />
-    <option name="SEARCH_SCOPE" value="File '.../cdap-sentry/cdap-sentry-extension/cdap-sentry-binding/src/main/java/co/cask/cdap/security/authorization/sentry/binding/SentryAuthorizer.java - [cdap-sentry-binding]'" />
+    <option name="customScope" value="File '.../cdap-data-fabric/src/main/java/co/cask/cdap/data2/datafabric/dataset/service/executor/DatasetAdminService.java - [cdap-data-fabric]'" />
+    <option name="defaultScopeName" value="File '.../cdap-data-fabric/src/main/java/co/cask/cdap/data2/datafabric/dataset/service/executor/DatasetAdminService.java - [cdap-data-fabric]'" />
+    <option name="SEARCH_SCOPE" value="File '.../cdap-data-fabric/src/main/java/co/cask/cdap/data2/datafabric/dataset/service/executor/DatasetAdminService.java - [cdap-data-fabric]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
