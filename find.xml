@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../cdap-security-spi/src/main/java/co/cask/cdap/security/spi/authorization/Authorizer.java - [cdap-security-spi]'" />
+    <option name="defaultScopeName" value="File '.../cdap-security-spi/src/main/java/co/cask/cdap/security/spi/authorization/Authorizer.java - [cdap-security-spi]'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../cdap-security-spi/src/main/java/co/cask/cdap/security/spi/authorization/Authorizer.java - [cdap-security-spi]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
